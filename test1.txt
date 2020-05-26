@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 hello world
-=======
-Hi  ,
+
+Hi  
 
 Today we have seen some git commands.
->>>>>>> a09499a2597df76386b912f5fe929355b0c1fc3a
