@@ -4,3 +4,8 @@ Git commands -----
 
 Lets understand pull command
 *******hhllhhklhkhkl
+
+
+Lets understand featch command
+
+**************
